@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_chat_application",
+  "version": "1.0.0",
+  "description": "A Node.js chat application to facilitate text chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kranjitha/Node.js-Chat-Application.git"
+  },
+  "author": "Ranjitha Korrapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kranjitha/Node.js-Chat-Application/issues"
+  },
+  "homepage": "https://github.com/kranjitha/Node.js-Chat-Application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
